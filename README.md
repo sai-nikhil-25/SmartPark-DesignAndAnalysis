@@ -39,7 +39,8 @@ The SmartPark system is made up of multiple layers that work together:
 ---
 
 ## Detailed Diagram
-![Smart Park High-Level Architecture](98cd1249-5c60-4669-860a-27c7abe8afb6.png)  
+<img width="730" height="778" alt="Screenshot 2025-08-09 125439" src="https://github.com/user-attachments/assets/e577cccb-ba93-433e-8d33-788d3a5e4914" />
+
 *High-level architecture of the SmartPark system.*
 
 ---
